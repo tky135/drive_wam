@@ -1,0 +1,6 @@
+[submodule "third_party/FastWAM"]
+	path = third_party/FastWAM
+	url = https://github.com/yuantianyuan01/FastWAM.git
+[submodule "third_party/drivelaw"]
+	path = third_party/drivelaw
+	url = https://github.com/xiaomi-research/drivelaw.git
